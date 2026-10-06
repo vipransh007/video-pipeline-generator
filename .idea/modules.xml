@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pipeline-video-generator.iml" filepath="$PROJECT_DIR$/.idea/pipeline-video-generator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/video-generator/video-generator.iml" filepath="$PROJECT_DIR$/video-generator/video-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video-generator.iml" filepath="$PROJECT_DIR$/video-generator.iml" />
     </modules>
   </component>
 </project>
