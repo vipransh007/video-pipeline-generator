@@ -1,8 +1,12 @@
-package main.java.com.pipeline;
+package com.pipeline;
+
+import java.io.IOException;
 
 public class main {
-    static void main(String[] args) {
-        System.out.println("Hello World");
+
+    public static void main(String[] args) throws IOException {
+
+        com.pipeline.GraphicsService graphicsService = new com.pipeline.GraphicsService();
+        graphicsService.generateImage();
     }
 }
-
