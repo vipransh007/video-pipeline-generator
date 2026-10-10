@@ -1,0 +1,405 @@
+{
+  "videoTitle": "The Solar System",
+  "width": 1280,
+  "height": 720,
+  "fps": 30,
+  "scenes": [
+    {
+      "startFrame": 1,
+      "endFrame": 150,
+      "background": "#07152E",
+      "elements": [
+        {
+          "type": "text",
+          "text": "THE SOLAR SYSTEM",
+          "x": 300,
+          "y": 210,
+          "color": "#FFFFFF",
+          "fontSize": 64
+        },
+        {
+          "type": "text",
+          "text": "A journey through our cosmic neighborhood",
+          "x": 280,
+          "y": 275,
+          "color": "#B8D7FF",
+          "fontSize": 26
+        },
+        {
+          "type": "circle",
+          "x": 640,
+          "y": 430,
+          "radius": 70,
+          "color": "#FFD34E"
+        },
+        {
+          "type": "text",
+          "text": "Our star: the Sun",
+          "x": 520,
+          "y": 540,
+          "color": "#FFFFFF",
+          "fontSize": 24
+        }
+      ]
+    },
+    {
+      "startFrame": 151,
+      "endFrame": 300,
+      "background": "#08182B",
+      "elements": [
+        {
+          "type": "text",
+          "text": "THE INNER PLANETS",
+          "x": 330,
+          "y": 90,
+          "color": "#FFFFFF",
+          "fontSize": 48
+        },
+        {
+          "type": "text",
+          "text": "Small, rocky worlds close to the Sun",
+          "x": 350,
+          "y": 145,
+          "color": "#B8D7FF",
+          "fontSize": 24
+        },
+        {
+          "type": "circle",
+          "x": 170,
+          "y": 370,
+          "radius": 58,
+          "color": "#F6B94A"
+        },
+        {
+          "type": "circle",
+          "x": 350,
+          "y": 370,
+          "radius": 15,
+          "color": "#A7A9AC"
+        },
+        {
+          "type": "circle",
+          "x": 530,
+          "y": 370,
+          "radius": 24,
+          "color": "#E8A66A"
+        },
+        {
+          "type": "circle",
+          "x": 710,
+          "y": 370,
+          "radius": 26,
+          "color": "#4C9BE8"
+        },
+        {
+          "type": "circle",
+          "x": 900,
+          "y": 370,
+          "radius": 20,
+          "color": "#C65C3A"
+        },
+        {
+          "type": "text",
+          "text": "Sun",
+          "x": 145,
+          "y": 465,
+          "color": "#FFFFFF",
+          "fontSize": 22
+        },
+        {
+          "type": "text",
+          "text": "Mercury",
+          "x": 305,
+          "y": 430,
+          "color": "#FFFFFF",
+          "fontSize": 20
+        },
+        {
+          "type": "text",
+          "text": "Venus",
+          "x": 495,
+          "y": 430,
+          "color": "#FFFFFF",
+          "fontSize": 20
+        },
+        {
+          "type": "text",
+          "text": "Earth",
+          "x": 680,
+          "y": 430,
+          "color": "#FFFFFF",
+          "fontSize": 20
+        },
+        {
+          "type": "text",
+          "text": "Mars",
+          "x": 875,
+          "y": 430,
+          "color": "#FFFFFF",
+          "fontSize": 20
+        },
+        {
+          "type": "text",
+          "text": "Earth is the only world currently known to support life.",
+          "x": 200,
+          "y": 570,
+          "color": "#C8D8EA",
+          "fontSize": 22
+        }
+      ]
+    },
+    {
+      "startFrame": 301,
+      "endFrame": 450,
+      "background": "#080F2A",
+      "elements": [
+        {
+          "type": "text",
+          "text": "THE GAS GIANTS",
+          "x": 390,
+          "y": 85,
+          "color": "#FFFFFF",
+          "fontSize": 48
+        },
+        {
+          "type": "text",
+          "text": "Massive planets with deep atmospheres",
+          "x": 340,
+          "y": 140,
+          "color": "#B8D7FF",
+          "fontSize": 24
+        },
+        {
+          "type": "circle",
+          "x": 230,
+          "y": 360,
+          "radius": 48,
+          "color": "#D6B38C"
+        },
+        {
+          "type": "circle",
+          "x": 490,
+          "y": 360,
+          "radius": 78,
+          "color": "#D9A066"
+        },
+        {
+          "type": "circle",
+          "x": 490,
+          "y": 360,
+          "radius": 96,
+          "color": "#C9B18A"
+        },
+        {
+          "type": "circle",
+          "x": 760,
+          "y": 360,
+          "radius": 64,
+          "color": "#B7E0E5"
+        },
+        {
+          "type": "circle",
+          "x": 1000,
+          "y": 360,
+          "radius": 61,
+          "color": "#4A76C9"
+        },
+        {
+          "type": "text",
+          "text": "Jupiter",
+          "x": 440,
+          "y": 485,
+          "color": "#FFFFFF",
+          "fontSize": 22
+        },
+        {
+          "type": "text",
+          "text": "Saturn",
+          "x": 190,
+          "y": 440,
+          "color": "#FFFFFF",
+          "fontSize": 22
+        },
+        {
+          "type": "text",
+          "text": "Uranus",
+          "x": 720,
+          "y": 455,
+          "color": "#FFFFFF",
+          "fontSize": 22
+        },
+        {
+          "type": "text",
+          "text": "Neptune",
+          "x": 950,
+          "y": 455,
+          "color": "#FFFFFF",
+          "fontSize": 22
+        },
+        {
+          "type": "text",
+          "text": "Jupiter is the largest planet in our solar system.",
+          "x": 280,
+          "y": 570,
+          "color": "#C8D8EA",
+          "fontSize": 22
+        }
+      ]
+    },
+    {
+      "startFrame": 451,
+      "endFrame": 600,
+      "background": "#050D20",
+      "elements": [
+        {
+          "type": "text",
+          "text": "BEYOND THE PLANETS",
+          "x": 300,
+          "y": 95,
+          "color": "#FFFFFF",
+          "fontSize": 48
+        },
+        {
+          "type": "text",
+          "text": "A vast region of icy objects and distant worlds",
+          "x": 250,
+          "y": 150,
+          "color": "#B8D7FF",
+          "fontSize": 23
+        },
+        {
+          "type": "circle",
+          "x": 640,
+          "y": 360,
+          "radius": 58,
+          "color": "#E8B96D"
+        },
+        {
+          "type": "circle",
+          "x": 640,
+          "y": 360,
+          "radius": 82,
+          "color": "#D4C19B"
+        },
+        {
+          "type": "circle",
+          "x": 640,
+          "y": 360,
+          "radius": 108,
+          "color": "#AEB9C9"
+        },
+        {
+          "type": "text",
+          "text": "Kuiper Belt",
+          "x": 520,
+          "y": 500,
+          "color": "#FFFFFF",
+          "fontSize": 25
+        },
+        {
+          "type": "text",
+          "text": "The Kuiper Belt lies beyond Neptune and contains icy bodies.",
+          "x": 210,
+          "y": 555,
+          "color": "#C8D8EA",
+          "fontSize": 21
+        },
+        {
+          "type": "circle",
+          "x": 180,
+          "y": 260,
+          "radius": 5,
+          "color": "#FFFFFF"
+        },
+        {
+          "type": "circle",
+          "x": 330,
+          "y": 320,
+          "radius": 4,
+          "color": "#9CCBFF"
+        },
+        {
+          "type": "circle",
+          "x": 900,
+          "y": 230,
+          "radius": 5,
+          "color": "#FFFFFF"
+        },
+        {
+          "type": "circle",
+          "x": 1040,
+          "y": 470,
+          "radius": 4,
+          "color": "#9CCBFF"
+        },
+        {
+          "type": "circle",
+          "x": 850,
+          "y": 550,
+          "radius": 3,
+          "color": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "startFrame": 601,
+      "endFrame": 750,
+      "background": "#07152E",
+      "elements": [
+        {
+          "type": "text",
+          "text": "OUR COSMIC ADDRESS",
+          "x": 320,
+          "y": 100,
+          "color": "#FFFFFF",
+          "fontSize": 48
+        },
+        {
+          "type": "text",
+          "text": "One star. Eight planets. Countless discoveries.",
+          "x": 260,
+          "y": 160,
+          "color": "#B8D7FF",
+          "fontSize": 26
+        },
+        {
+          "type": "circle",
+          "x": 640,
+          "y": 340,
+          "radius": 65,
+          "color": "#FFD34E"
+        },
+        {
+          "type": "circle",
+          "x": 640,
+          "y": 340,
+          "radius": 100,
+          "color": "#2F75B5"
+        },
+        {
+          "type": "circle",
+          "x": 640,
+          "y": 340,
+          "radius": 145,
+          "color": "#9C6ADE"
+        },
+        {
+          "type": "text",
+          "text": "Keep exploring the universe",
+          "x": 390,
+          "y": 530,
+          "color": "#FFFFFF",
+          "fontSize": 34
+        },
+        {
+          "type": "text",
+          "text": "THE SOLAR SYSTEM",
+          "x": 430,
+          "y": 590,
+          "color": "#FFD34E",
+          "fontSize": 25
+        }
+      ]
+    }
+  ]
+}
