@@ -1,0 +1,7 @@
+
+# OAuth credentials and tokens
+client_secret.json
+tokens/
+
+# Build output
+target/

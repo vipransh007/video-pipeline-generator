@@ -1,5 +1,7 @@
 package com.pipeline;
 
+import com.pipeline.service.YoutubeService;
+
 import java.io.IOException;
 
 public class main {
@@ -7,8 +9,12 @@ public class main {
     public static void main(String[] args) throws Exception, InterruptedException {
 
 
-        com.pipeline.service.Service Service = new com.pipeline.service.Service();
-        Service.testApi();
+        com.pipeline.service.YoutubeService service = new com.pipeline.service.YoutubeService();
+        YoutubeService.verifyLogin();
+
+//        com.pipeline.service.Service Service = new com.pipeline.service.Service();
+//        Service.testApi();
+
 //        com.pipeline.GraphicsService graphicsService = new com.pipeline.GraphicsService();
 //        graphicsService.generateImage();
 //
